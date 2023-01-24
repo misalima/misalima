@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!👋 I'm Misael Lima, web developer and content creator! 
 
 <!--
 **misalima/misalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Follow me on my [**twitter**](https://twitter.com/Misael_Liima)
+👨‍🏫I'm also an English teacher, and I am currently working in a highschool in Sao Sebastiao, AL, Brazil. 
+🌱 I am currently learning more about front-end web development, using technologies such as Html, CSS and Javascript, as well as some back-end with Node.js and Express.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misalima)](https://github.com/anuraghazra/github-readme-stats)
 
-![linkedin icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)
+
