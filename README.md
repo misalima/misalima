@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Misa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Misa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Misa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="right" alt="Misa-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1617887545735680000/7r8_1lCx_400x400.jpg">
+  <img align="right" alt="Misa-pic" height="150" style="border-radius:90px;" src="https://pbs.twimg.com/profile_images/1617887545735680000/7r8_1lCx_400x400.jpg">
   
   
 </div>
