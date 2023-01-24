@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 Follow me on my [**twitter**](https://twitter.com/Misael_Liima)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misalima)](https://github.com/anuraghazra/github-readme-stats)
+
+![linkedin icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)
