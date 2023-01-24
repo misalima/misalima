@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Misa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Misa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Misa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="right" alt="Misa-pic" height="150" style="border-radius:90px;" src="https://scontent.fmcz1-1.fna.fbcdn.net/v/t39.30808-6/326975292_3511136132456860_1183400058205865768_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH0Edfq9lWKmRw_MWlYuM-CE3qBYq3y43YTeoFirfLjdqOecqjesxx0KGBQobpYCkAlM1_n-8pDac_vcF5aEzUN&_nc_ohc=QQXNMyIoCtQAX-1YSmC&_nc_ht=scontent.fmcz1-1.fna&oh=00_AfDxF6KooXLwH0eg5CNhtMJa2B2OVKd_jEA3ZZE9WkQKvQ&oe=63D56721">
+  <img align="right" alt="Misa-pic" height="150" style="border-radius:90px;" src="https://pbs.twimg.com/media/FnPj0RHWQAYL052?format=jpg&name=large">
   
   
 </div>
