@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 👨‍🏫I'm also an English teacher, and I am currently working in a highschool in Sao Sebastiao, AL, Brazil.  
 🌱 I am currently learning more about front-end web development, using technologies such as Html, CSS and Javascript, as well as some back-end with Node.js and Express.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misalima&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misalima)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Misa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
