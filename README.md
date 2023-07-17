@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👨‍🏫I'm also an English teacher, and I am currently working in a highschool in Sao Sebastiao, AL, Brazil.  
-🌱 I am currently learning more about front-end web development, using technologies such as Html, CSS and Javascript, as well as some back-end with Node.js and Express.
+🌱 I am currently learning more about back-end web development, using technologies such as Go and Node.js. I'm always in contact with some front-end technologies though, like React and Vue.js. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misalima&show_icons=true&theme=dark)
 
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Misa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Misa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Misa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="Misa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Misa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
  
   
   
