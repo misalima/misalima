@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨‍🏫I'm also an English teacher, and I am currently working in a highschool in Sao Sebastiao, AL, Brazil.  
+👨‍🏫I'm also an English teacher and educational coordinator, and I am currently working at a school in Sao Sebastiao, AL, Brazil.  
 🌱 I am currently learning more about back-end web development, using technologies such as Go and Node.js. I'm always in contact with some front-end technologies though, like React and Vue.js. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misalima&show_icons=true&theme=dark)
