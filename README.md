@@ -3,7 +3,6 @@
 👨‍🏫I'm also an English teacher and educational coordinator, and I am currently working at a school in Sao Sebastiao, AL, Brazil.  
 🌱 I am currently learning more about back-end web development, using technologies such as Go and Java. I'm always in contact with some front-end technologies too, like React and Vue.js. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misalima&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Misa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
