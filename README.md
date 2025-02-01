@@ -1,7 +1,7 @@
 ### Hi there!👋 I'm Misael Lima, software developer! 
 
 👨‍🏫I'm also an English teacher and educational coordinator, and I am currently working at a school in Sao Sebastiao, AL, Brazil.  
-🌱 I am currently learning more about back-end web development, using technologies such as Go and Java. I'm also taking a look at Mobile Development with Kotlin and Flutter. I'm always in contact with some front-end technologies too, like React and Vue.js. 
+🌱 I am currently learning more about back-end web development, using technologies such as Go and Javascript. I'm also taking a look at Mobile Development with Kotlin and Flutter. I'm always in contact with some front-end technologies too, and currently working on a project with Next.js. 
 
 
 <div style="display: inline_block"><br>
