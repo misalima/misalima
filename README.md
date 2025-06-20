@@ -1,8 +1,13 @@
 ### Hi there!👋 I'm Misael Lima, software developer! 
 
-👨‍🏫I'm also an English teacher and educational coordinator, and I am currently working at a school in Sao Sebastiao, AL, Brazil.  
-🌱 I am currently learning more about back-end web development, using technologies such as Go and Javascript. I'm also taking a look at Mobile Development with Kotlin and Flutter. I'm always in contact with some front-end technologies too, and currently working on a project with Next.js. 
+I'm an Educational Coordinator at a public high school in Alagoas and an Information Systems student currently working as a Backend Developer Intern at IFAL. I focus on backend development and artificial intelligence.
 
+I’m currently focused on backend development using Go and PostgreSQL, applying concepts like Clean Architecture and Hexagonal Architecture. I also work with Docker, and Redis for caching and messaging. Additionally, I’m studying machine learning fundamentals, and large language models to explore AI integration in backend systems. I have some basic exposure to frontend technologies like Next.js and React, mostly for personal and college projects.
+
+- 💼 Educational Coordinator @ Escola Estadual Prof. José Félix de Carvalho Alves (Sao Sebastiao, Alagoas, Brazil)
+- 💻 Backend Developer Intern @ IFAL
+- 🎯 Main focus: Backend Development | AI Integration
+- 💡 Interested in EdTech, AI, and distributed systems
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Misa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
