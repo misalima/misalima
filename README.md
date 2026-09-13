@@ -55,7 +55,7 @@ with deeper expertise in backend systems and production AI applications.
 
 ## Selected projects
 
-### FelixHub
+### ÉlidaHub
 
 A real-world educational management platform used to support school operations.
 
@@ -63,7 +63,7 @@ It includes student records, pedagogical dashboards, class councils, interventio
 
 **Stack:** Next.js · React · TypeScript · PostgreSQL · Supabase · TanStack Query · Vitest
 
-🔗 [View repository](https://github.com/misalima/felixhub)
+🔗 [View repository](https://github.com/misalima/elidahub)
 
 ---
 
