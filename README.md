@@ -1,35 +1,147 @@
-### Hi there!👋 I'm Misael Lima, software developer! 
+# Hi, I'm Misael Lima 👋
 
-I'm an Educational Coordinator at a public high school in Alagoas and an Information Systems student currently working as a Backend Developer Intern at IFAL. I focus on backend development and artificial intelligence.
+I'm a **Software Engineer with a strong backend focus**, building end-to-end applications and increasingly working with AI-powered systems.
 
-I’m currently focused on backend development using Go and PostgreSQL, applying concepts like Clean Architecture and Hexagonal Architecture. I also work with Docker, and Redis for caching and messaging. Additionally, I’m studying machine learning fundamentals, and large language models to explore AI integration in backend systems. I have some basic exposure to frontend technologies like Next.js and React, mostly for personal and college projects.
+My main interests are **backend engineering, software architecture, distributed systems, cloud-native applications, and applied AI**.
 
-- 💼 Educational Coordinator @ Escola Estadual Prof. José Félix de Carvalho Alves (Sao Sebastiao, Alagoas, Brazil)
-- 💻 Backend Developer Intern @ IFAL
-- 🎯 Main focus: Backend Development | AI Integration
-- 💡 Interested in EdTech, AI, and distributed systems
+I currently work mostly with **Go, TypeScript, PostgreSQL, Redis, Docker, React, and Next.js**, and I enjoy building software that solves real operational problems.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Misa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Misa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Misa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Misa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Misa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Misa-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-  <img align="center" alt="Misa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Misa-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Misa-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
- 
- 
-  
-  
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/misaellima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://x.com/DevMisaelLima" target="_blank"><img src="https://img.shields.io/badge/-X.com-%23000000?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:misael.alisson14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!--- <a href="https://www.youtube.com/channel/UC26EOZp9euu-JtxkGIUzb7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div> -->
+---
+
+## 👨‍💻 About me
+
+- 💻 Software Engineer with stronger experience in **backend development**
+- 🧩 Comfortable working across the stack, from frontend to backend and deployment
+- 🏗️ Interested in **software architecture, reliability, distributed systems, and system design**
+- 🤖 Growing my experience with **LLMs, AI agents, RAG, and AI integration**
+- 🧠 Currently studying **Machine Learning**
+- 🎓 Background in Information Systems
+- 📚 Former English teacher and currently a Pedagogical Coordinator in public education
+- 🌎 Based in Brazil
+
+My long-term goal is to become a strong end-to-end engineer capable of taking a system from:
+
+**problem → architecture → implementation → infrastructure → production**
+
+with deeper expertise in backend systems and production AI applications.
+
+---
+
+## 🛠️ Main technologies
+
+### Backend
+
+`Go` · `TypeScript` · `Node.js` · `NestJS` · `Echo`
+
+### Data & Infrastructure
+
+`PostgreSQL` · `Redis` · `Supabase` · `Docker` · `REST APIs` · `JWT`
+
+### Frontend
+
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+
+### Software Engineering
+
+`Clean Architecture` · `Hexagonal Architecture` · `Testing` · `CI/CD` · `System Design`
+
+### AI
+
+`LLM Integration` · `AI Agents` · `RAG` · `Embeddings` · `Tool Calling`
+
+> I'm actively deepening my knowledge of production AI systems rather than focusing on model training or ML research.
+
+---
+
+## 🚀 Selected projects
+
+### 🏫 ÉlidaHub
+
+A real-world educational management platform used to support school operations.
+
+It includes student records, pedagogical dashboards, class councils, interventions, assessment management, attendance resources, access control, auditing, and other administrative workflows.
+
+**Stack:** Next.js · React · TypeScript · PostgreSQL · Supabase · TanStack Query · Vitest
+
+🔗 [View repository](https://github.com/misalima/elidahub)
+
+---
+
+### 🧠 EduNex
+
+A platform designed to improve my own workflow as a Pedagogical Coordinator while exploring better software architecture and AI-assisted educational workflows.
+
+The backend is built around **Hexagonal Architecture**, keeping domain logic isolated from infrastructure concerns.
+
+Current and planned capabilities include document management, asynchronous AI analysis, structured pedagogical data, and workflow automation.
+
+**Stack:** Go · PostgreSQL · Supabase · Docker · Hexagonal Architecture
+
+🔗 [View repository](https://github.com/misalima/edunex-backend)
+
+---
+
+### 💰 My Budget Planner
+
+A personal finance and expense-management application with a backend written in Go.
+
+The API includes authentication, expenses, categories, credit cards, recurring financial data, and database persistence.
+
+**Stack:** Go · Echo · PostgreSQL · pgx · JWT · Docker
+
+🔗 [View backend](https://github.com/misalima/my-budget-planner-backend)
+
+---
+
+### 📚 Book Finder
+
+A full-stack application for discovering books, managing personal lists, and writing reviews.
+
+Built as an exercise in designing and integrating frontend and backend applications.
+
+**Stack:** Next.js · NestJS · PostgreSQL · Prisma · NextAuth
+
+🔗 [Backend](https://github.com/misalima/book-finder-backend)  
+🔗 [Frontend](https://github.com/misalima/book-finder-frontend)
+
+---
+
+## 📈 What I'm currently focusing on
+
+I'm currently deepening my knowledge in:
+
+- Backend architecture with Go
+- PostgreSQL and data modeling
+- Redis, asynchronous processing, and distributed systems
+- Testing and observability
+- Docker, deployment, and cloud infrastructure
+- System design
+- LLM-powered applications
+- AI agents, RAG, tools, and evaluation
+- Machine Learning fundamentals
+
+My goal is not to collect technologies, but to become better at **designing, building, debugging, and operating reliable software systems**.
+
+---
+
+## ✍️ Writing
+
+I also write about software engineering, backend development, AI, and things I learn while building systems. 
+I'm particularly interested in documenting real engineering decisions, trade-offs, mistakes, and lessons learned from projects.
+You can find my articles on Medium:
+
+👉 [medium.com/@misael.lima](https://medium.com/@misael.lima)
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Misael%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misaellima)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@misael.limaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/misael.limaa)
+
+[![GitHub](https://img.shields.io/badge/GitHub-misalima-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/misalima)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misael.alisson14@gmail.com)
+
+[![Medium](https://img.shields.io/badge/Medium-@misael.lima-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@misael.lima)
