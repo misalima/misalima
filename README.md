@@ -79,32 +79,6 @@ Current and planned capabilities include document management, asynchronous AI an
 
 🔗 [View repository](https://github.com/misalima/edunex-backend)
 
----
-
-### 💰 My Budget Planner
-
-A personal finance and expense-management application with a backend written in Go.
-
-The API includes authentication, expenses, categories, credit cards, recurring financial data, and database persistence.
-
-**Stack:** Go · Echo · PostgreSQL · pgx · JWT · Docker
-
-🔗 [View backend](https://github.com/misalima/my-budget-planner-backend)
-
----
-
-### 📚 Book Finder
-
-A full-stack application for discovering books, managing personal lists, and writing reviews.
-
-Built as an exercise in designing and integrating frontend and backend applications.
-
-**Stack:** Next.js · NestJS · PostgreSQL · Prisma · NextAuth
-
-🔗 [Backend](https://github.com/misalima/book-finder-backend)  
-🔗 [Frontend](https://github.com/misalima/book-finder-frontend)
-
----
 
 ## 📈 What I'm currently focusing on
 
