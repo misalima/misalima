@@ -8,7 +8,7 @@ I currently work mostly with **Go, TypeScript, PostgreSQL, Redis, Docker, React,
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 - 💻 Software Engineer with stronger experience in **backend development**
 - 🧩 Comfortable working across the stack, from frontend to backend and deployment
@@ -27,7 +27,7 @@ with deeper expertise in backend systems and production AI applications.
 
 ---
 
-## 🛠️ Main technologies
+## Main technologies
 
 ### Backend
 
@@ -53,9 +53,9 @@ with deeper expertise in backend systems and production AI applications.
 
 ---
 
-## 🚀 Selected projects
+## Selected projects
 
-### 🏫 ÉlidaHub
+### FelixHub
 
 A real-world educational management platform used to support school operations.
 
@@ -63,11 +63,11 @@ It includes student records, pedagogical dashboards, class councils, interventio
 
 **Stack:** Next.js · React · TypeScript · PostgreSQL · Supabase · TanStack Query · Vitest
 
-🔗 [View repository](https://github.com/misalima/elidahub)
+🔗 [View repository](https://github.com/misalima/felixhub)
 
 ---
 
-### 🧠 EduNex
+### EduNex
 
 A platform designed to improve my own workflow as a Pedagogical Coordinator while exploring better software architecture and AI-assisted educational workflows.
 
@@ -80,7 +80,7 @@ Current and planned capabilities include document management, asynchronous AI an
 🔗 [View repository](https://github.com/misalima/edunex-backend)
 
 
-## 📈 What I'm currently focusing on
+## What I'm currently focusing on
 
 I'm currently deepening my knowledge in:
 
@@ -98,7 +98,7 @@ My goal is not to collect technologies, but to become better at **designing, bui
 
 ---
 
-## ✍️ Writing
+## Writing
 
 I also write about software engineering, backend development, AI, and things I learn while building systems. 
 I'm particularly interested in documenting real engineering decisions, trade-offs, mistakes, and lessons learned from projects.
@@ -108,7 +108,7 @@ You can find my articles on Medium:
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Misael%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misaellima)
 
